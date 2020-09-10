@@ -1,11 +1,11 @@
 API Robodeck
 ============
 
-API Robodeck is a Application Programming Interface developed in C/C++  as  interface for robotic platform Robodeck (http://www.xbot.com.br/).
+API Robodeck is a Application Programming Interface developed in C/C++  as  interface for robotic platform Robodeck da empresa [XBot](http://www.xbot.com.br/).
 
-The origin of code were the libraries developed by Mauro E.S. Muñoz. Afterwards, the first proposal of API was presented in the research of Guilherme Orlandini "Development of Applications Based in Techniques of Computer Vision for Autonomous Mobile Robot" (2012).
+The origin of code were the libraries developed by Mauro E.S. Muñoz. Afterwards, the first proposal of API was presented in the research of Guilherme Orlandini ["Development of Applications Based in Techniques of Computer Vision for Autonomous Mobile Robot" (2012)](http://www.xbot.com.br/wp-content/uploads/2012/10/Disserta%C3%A7%C3%A3o_Guilherme_V4_revisado_pos_defesa-2_corrigido_final.pdf).
 
-This API is a complete and updated version based on the Muñoz and Orlandini code, developed by R.S.Pissardini (2012-2014) in this research "Veículos autônomos de transporte terrestre: proposta de arquitetura de tomada de decisão para navegação autônoma". This version still require minor modifications (such Makefile files), but is fully functional for use.
+This API is a complete and updated version based on the Muñoz and Orlandini code, developed by R.S.Pissardini (2012-2014) in this research ["Veículos autônomos de transporte terrestre: proposta de arquitetura de tomada de decisão para navegação autônoma" (2014)](https://teses.usp.br/teses/disponiveis/3/3138/tde-26082015-161805/pt-br.php). This version still needs improvements (such Makefile files), but it is fully functional for use.
 
 How to Use
 ==========
